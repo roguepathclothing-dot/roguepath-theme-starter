@@ -1,0 +1,10 @@
+body.roguepath-dark {
+  background: #0d0d13;
+  color: #fff;
+  font-family: 'Montserrat', 'Oswald', sans-serif;
+}
+.brand-title { color: #fff; font-weight: bold; font-size: 3rem; letter-spacing: 2px; }
+.btn-gold { background: #c7b377; color: #0d0d13; font-weight: 700; border-radius: 2px; }
+footer { background: #121225; color: #fff; }
+a, .btn { transition: all .2s; }
+a:hover, .btn-gold:hover { color: #c7b377; }
